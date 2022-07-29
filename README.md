@@ -13,4 +13,5 @@ Secondhandsongs Metadata on performance-level
 ### `shs_works.tar.xz`
 Secondhandsongs Metadata on work-level
 
-### `yt_suggestions.tar.xz`: the raw YouTube suggestion files per work
+### `yt_suggestions.tar.xz`
+YouTube suggestion files per work
